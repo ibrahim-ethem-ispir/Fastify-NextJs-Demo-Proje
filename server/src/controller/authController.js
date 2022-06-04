@@ -14,7 +14,6 @@ const allUsers = async (req, reply) => {
     }
 }
 
-// buraya tek kullanıcı bulma kodunu yazıyorum belki işimize yarar
 
 const singleUser = async (req, reply) => {
     try {
